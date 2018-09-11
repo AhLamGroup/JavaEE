@@ -23,6 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    <p>A对f1.jsp进行了修改</p> <br>
+    <p>B第一次对f1.jsp进行了修改</p> <br>
   </body>
 </html>
