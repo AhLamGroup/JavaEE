@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*" pageEncoding="ISO-8859-1"%>
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%
 String path = request.getContextPath();
 String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
@@ -26,5 +26,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     <p>A对f1.jsp进行了修改</p> <br>
     <p>A又对f1.jsp进行了修改</p> <br>
     <p>A第三次对f1.jsp进行了修改</p> <br>
+    
   </body>
 </html>
