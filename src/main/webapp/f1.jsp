@@ -22,7 +22,15 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
   </head>
   
+<<<<<<< HEAD
   <body>
+<<<<<<< HEAD
+    <p>B第一次对f1.jsp进行了修改</p> <br>
+    <p>B第二次对f1.jsp进行了修改</p> <br>
+=======
+=======
+  <body>
+>>>>>>> branch 'master' of https://github.com/AhLamGroup/JavaEE.git
     <p>A对f1.jsp进行了修改</p> <br>
     <p>A又对f1.jsp进行了修改</p> <br>
     <p>A第三次对f1.jsp进行了修改</p> <br>
